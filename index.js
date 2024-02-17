@@ -29,7 +29,7 @@ switch(true){
     break;
 
     case(XP <= 10000 && XP > 9000):
-    Nivel = "Imortal"
+    Nivel = "Imortal";
     break;
 
     default:
